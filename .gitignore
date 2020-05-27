@@ -2,3 +2,6 @@
 # AgePrtitioner
 bin
 /bin
+.classpath
+.project
+settings
